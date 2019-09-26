@@ -6,6 +6,8 @@
     ],
     "colors": [
     ],
+    "exportPresets": [
+    ],
     "gradientAssets": [
     ],
     "gradients": [
@@ -32,11 +34,16 @@
     ]
   },
   "meta": {
-    "appVersion": "53.2",
-    "build": 72643,
-    "version": 116
+    "appVersion": "58",
+    "build": 84663,
+    "version": 120
   },
   "pages": [
     "Page 1"
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }
